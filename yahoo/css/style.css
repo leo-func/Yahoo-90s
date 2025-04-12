@@ -1,0 +1,66 @@
+.titulo-div{
+    display: flex;
+    justify-content: center;
+}
+
+.yahoo-la-div{
+    display: flex;
+    color: #0000cc;
+    margin-top: 15px;
+    justify-content: center;
+    gap: 25px;
+}
+
+.input-div{
+    display: flex;
+    color: #0000cc;
+    margin-top: 15px;
+    gap: 10px;
+    justify-content: center;
+    
+}
+
+.input{
+    margin-top: 10px;
+    height: 20px;
+    width: 250px;
+}
+
+.search-button {
+    margin-top: 10px;
+    height: 25px;
+}
+
+.label {
+    text-align: center;
+}
+
+.yahoo-list {
+    list-style-type: disc;
+    margin-top: 55px;
+    padding-left: 30px;
+    line-height: 1.8;
+    font-size: 18px;
+  }
+
+.yahoo-list li {
+    margin-bottom: 8px;
+  }
+  
+  .yahoo-list .main {
+    font-weight: bold;
+    color: #0000cc; 
+  }
+  
+  .yahoo-list .sub {
+    font-style: italic;
+    color: #0000cc; 
+  }
+  
+  footer{
+    margin-top: 10px;
+  }
+
+  p{
+    color: #0000cc
+  }
